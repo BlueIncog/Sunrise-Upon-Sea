@@ -1,0 +1,16 @@
+{
+    "extensionName": {
+      "message": "Sunrise Upon Sea",
+      "description": "Name of the extension."
+    },
+
+    "extensionDescription": {
+      "message": "Animated stars in dark theme. Seamless video background with particles moving around. Enjoy.",
+      "description": "Description of the extension."
+    },
+
+    "extensionAuthor": {
+        "message": "",
+        "description": ""
+      }
+  }
